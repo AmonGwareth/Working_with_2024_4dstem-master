@@ -1,0 +1,22 @@
+;File created by RosettaSciIO version 0.4
+key	value
+byte-order	dont-care
+data-length	8
+data-type	float
+date	
+depth	1
+height	2048
+height-name	y
+height-origin	-0.0
+height-scale	0.017137061804533005
+height-units	nm
+offset	0
+record-by	dont-care
+signal	
+time	
+title	009_FFT_filtered
+width	2048
+width-name	x
+width-origin	-0.0
+width-scale	0.017137061804533005
+width-units	nm

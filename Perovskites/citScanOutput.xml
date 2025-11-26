@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hardware>
+
+
+	<Processor version="1" timestamp="1724832060">
+		<Index IsKey="1">1</Index>
+		<ID IsKey="1">bfad6d37c4f6956c64f78a3fd1ee535b</ID>
+		<Family>Epyc</Family>
+		<MaxClockSpeed>2800</MaxClockSpeed>
+		<CurrentClockSpeed>2800</CurrentClockSpeed>
+		<ExternalClockSpeed>0</ExternalClockSpeed>
+		<Manufacturer>AuthenticAMD</Manufacturer>
+		<ChipFamily>23</ChipFamily>
+		<ChipModel>1</ChipModel>
+		<ChipStepping>2</ChipStepping>
+		<ChipFeatures>394525695</ChipFeatures>
+		<FloatingPointUnitPresent>Y</FloatingPointUnitPresent>
+		<VirtualModeExtensions>Y</VirtualModeExtensions>
+		<DebugExtensionPresent>Y</DebugExtensionPresent>
+		<PageSizeExtensions>Y</PageSizeExtensions>
+		<TimeStampCounter>Y</TimeStampCounter>
+		<ModelSpecificRegisters>Y</ModelSpecificRegisters>
+		<PhysicalAddressExtensions>Y</PhysicalAddressExtensions>
+		<MachineCheckExceptions>Y</MachineCheckExceptions>
+		<CMPXCHG8BInstructionSupport>Y</CMPXCHG8BInstructionSupport>
+		<OnchipAPIC>Y</OnchipAPIC>
+		<FastSystemCall>Y</FastSystemCall>
+		<MemoryTypeRangeRegisters>Y</MemoryTypeRangeRegisters>
+		<PageGlobalEnable>Y</PageGlobalEnable>
+		<MachineCheckArchitecture>Y</MachineCheckArchitecture>
+		<ConditionalMoveInstruction>Y</ConditionalMoveInstruction>
+		<PageAttributeTable>Y</PageAttributeTable>
+		<_36-bitPageSizeExtension>Y</_36-bitPageSizeExtension>
+		<ProcessSerialNumberEnabled>N</ProcessSerialNumberEnabled>
+		<MMXtmTechonlogy>Y</MMXtmTechonlogy>
+		<FastFloatingPointSaveRestore>Y</FastFloatingPointSaveRestore>
+		<StreamingSIMDExtensions>Y</StreamingSIMDExtensions>
+		<AMD3DNowtmTechnology>N</AMD3DNowtmTechnology>
+		<CPUEnabled>H</CPUEnabled>
+	</Processor>
+
+	<PhysicalProcessor version="1" timestamp="1724832062">
+		<Id IsKey="1">1</Id>
+		<CorePerPackageCount>24</CorePerPackageCount>
+		<LogicalProcPerCore>1</LogicalProcPerCore>
+		<Manufacturer>AMD</Manufacturer>
+		<Family>Epyc</Family>
+		<Type>Processor</Type>
+		<CpuFreq>2000</CpuFreq>
+		<L2CacheSize>512</L2CacheSize>
+		<L3CacheSize>8192</L3CacheSize>
+		<Brandname>AMD EPYC Processor</Brandname>
+		<Signature>0x00800F12</Signature>
+		<Is64BitSupported>Y</Is64BitSupported>
+		<ActiveProcessorCount>24</ActiveProcessorCount>
+		<ActiveCoreCount>24</ActiveCoreCount>
+	</PhysicalProcessor>
+
+	<IPAddress version="1" timestamp="1724832062">
+		<Index>1</Index>
+		<Address IsKey="1">172.26.11.21</Address>
+		<Hostname>hnode01</Hostname>
+		<Domain></Domain>
+		<Subnet>255.255.255.255</Subnet>
+		<Gateway></Gateway>
+		<PrimaryDNS>137.248.21.22</PrimaryDNS>
+		<SecondaryDNS>137.248.1.5</SecondaryDNS>
+		<PermanentMacAddress>56:2F:9F:84:EF:8F</PermanentMacAddress>
+		<IPV6Address></IPV6Address>
+	</IPAddress>
+
+	<IPAddress version="1" timestamp="1724832062">
+		<Index>2</Index>
+		<Address IsKey="1">172.26.13.21</Address>
+		<Hostname>clrzm3-v01a</Hostname>
+		<Domain>HRZ.Uni-Marburg.DE</Domain>
+		<Subnet>255.255.255.255</Subnet>
+		<Gateway></Gateway>
+		<PrimaryDNS>137.248.21.22</PrimaryDNS>
+		<SecondaryDNS>137.248.1.5</SecondaryDNS>
+		<PermanentMacAddress>02:4A:49:09:58:5C</PermanentMacAddress>
+		<IPV6Address></IPV6Address>
+	</IPAddress>
+
+	<IPAddress version="1" timestamp="1724832062">
+		<Index>3</Index>
+		<Address IsKey="1">172.26.12.21</Address>
+		<Hostname>hnode01</Hostname>
+		<Domain></Domain>
+		<Subnet>255.255.255.255</Subnet>
+		<Gateway></Gateway>
+		<PrimaryDNS>137.248.21.22</PrimaryDNS>
+		<SecondaryDNS>137.248.1.5</SecondaryDNS>
+		<PermanentMacAddress>7E:32:E4:0B:44:B3</PermanentMacAddress>
+		<IPV6Address></IPV6Address>
+	</IPAddress>
+
+	<IPAddress version="1" timestamp="1724832062">
+		<Index>4</Index>
+		<Address IsKey="1">192.168.182.31</Address>
+		<Hostname>clrzm3-v01</Hostname>
+		<Domain>HRZ.Uni-Marburg.DE</Domain>
+		<Subnet>255.255.255.255</Subnet>
+		<Gateway></Gateway>
+		<PrimaryDNS>137.248.21.22</PrimaryDNS>
+		<SecondaryDNS>137.248.1.5</SecondaryDNS>
+		<PermanentMacAddress>B2:DD:E4:99:B4:19</PermanentMacAddress>
+		<IPV6Address></IPV6Address>
+	</IPAddress>
+
+	<IPv6Address version="1" timestamp="1724832062">
+		<Index>1</Index>
+		<Address IsKey="1">fe80::8d9d:6612:ef3b:e530</Address>
+		<Hostname>hnode01</Hostname>
+		<Domain></Domain>
+		<Subnet>64</Subnet>
+		<Gateway></Gateway>
+		<PrimaryDNS>137.248.21.22</PrimaryDNS>
+		<SecondaryDNS>137.248.1.5</SecondaryDNS>
+		<PermanentMacAddress>56:2f:9f:84:ef:8f</PermanentMacAddress>
+		<Scope>link</Scope>
+		<AdapterName>enp6s18</AdapterName>
+	</IPv6Address>
+
+	<IPv6Address version="1" timestamp="1724832062">
+		<Index>2</Index>
+		<Address IsKey="1">fe80::c3ce:2f31:31b4:4116</Address>
+		<Hostname>hnode01</Hostname>
+		<Domain></Domain>
+		<Subnet>64</Subnet>
+		<Gateway></Gateway>
+		<PrimaryDNS>137.248.21.22</PrimaryDNS>
+		<SecondaryDNS>137.248.1.5</SecondaryDNS>
+		<PermanentMacAddress>02:4a:49:09:58:5c</PermanentMacAddress>
+		<Scope>link</Scope>
+		<AdapterName>enp6s19</AdapterName>
+	</IPv6Address>
+
+	<IPv6Address version="1" timestamp="1724832062">
+		<Index>3</Index>
+		<Address IsKey="1">fe80::f8fb:7b1:def2:bb1</Address>
+		<Hostname>hnode01</Hostname>
+		<Domain></Domain>
+		<Subnet>64</Subnet>
+		<Gateway></Gateway>
+		<PrimaryDNS>137.248.21.22</PrimaryDNS>
+		<SecondaryDNS>137.248.1.5</SecondaryDNS>
+		<PermanentMacAddress>7e:32:e4:0b:44:b3</PermanentMacAddress>
+		<Scope>link</Scope>
+		<AdapterName>enp6s20</AdapterName>
+	</IPv6Address>
+
+	<IPv6Address version="1" timestamp="1724832062">
+		<Index>4</Index>
+		<Address IsKey="1">fe80::b0dd:e4ff:fe99:b419</Address>
+		<Hostname>hnode01</Hostname>
+		<Domain></Domain>
+		<Subnet>64</Subnet>
+		<Gateway></Gateway>
+		<PrimaryDNS>137.248.21.22</PrimaryDNS>
+		<SecondaryDNS>137.248.1.5</SecondaryDNS>
+		<PermanentMacAddress>b2:dd:e4:99:b4:19</PermanentMacAddress>
+		<Scope>link</Scope>
+		<AdapterName>enp6s21</AdapterName>
+	</IPv6Address>
+
+	<NetworkAdapter version="1" timestamp="1724832062">
+		<Index>1</Index>
+		<ID IsKey="1">94e6e102492f188e8f34575110178fc9</ID>
+		<PermanentAddress>56:2F:9F:84:EF:8F</PermanentAddress>
+		<CurrentAddress>56:2F:9F:84:EF:8F</CurrentAddress>
+		<Type>Other</Type>
+		<Model>enp6s18</Model>
+	</NetworkAdapter>
+
+	<NetworkAdapter version="1" timestamp="1724832062">
+		<Index>2</Index>
+		<ID IsKey="1">de8b3dd5514698ab0e8bcb562e29a5fd</ID>
+		<PermanentAddress>02:4A:49:09:58:5C</PermanentAddress>
+		<CurrentAddress>02:4A:49:09:58:5C</CurrentAddress>
+		<Type>Other</Type>
+		<Model>enp6s19</Model>
+	</NetworkAdapter>
+
+	<NetworkAdapter version="1" timestamp="1724832062">
+		<Index>3</Index>
+		<ID IsKey="1">295a61dabdcb3f815c06affb85fe2a73</ID>
+		<PermanentAddress>7E:32:E4:0B:44:B3</PermanentAddress>
+		<CurrentAddress>7E:32:E4:0B:44:B3</CurrentAddress>
+		<Type>Other</Type>
+		<Model>enp6s20</Model>
+	</NetworkAdapter>
+
+	<NetworkAdapter version="1" timestamp="1724832062">
+		<Index>4</Index>
+		<ID IsKey="1">79d5fd2c27e311df14a46f0ab8c6e8c1</ID>
+		<PermanentAddress>B2:DD:E4:99:B4:19</PermanentAddress>
+		<CurrentAddress>B2:DD:E4:99:B4:19</CurrentAddress>
+		<Type>Other</Type>
+		<Model>enp6s21</Model>
+	</NetworkAdapter>
+
+	<VirtualMachineGuest version="1" timestamp="1724832062">
+		<UUID>2BE4B228-04F2-49AE-9455-82A23BA4D206</UUID>
+		<HypervisorType>KVM</HypervisorType>
+	</VirtualMachineGuest>
+
+</Hardware>

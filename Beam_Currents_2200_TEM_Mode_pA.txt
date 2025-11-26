@@ -1,0 +1,10 @@
+Spot1C: {'CLA1': nan, 'CLA2': nan, 'CLA3': 64.0, 'CLA4': nan}
+Spot2C: {'CLA1': nan, 'CLA2': nan, 'CLA3': 47.6, 'CLA4': nan}
+Spot3C: {'CLA1': nan, 'CLA2': nan, 'CLA3': 35.9, 'CLA4': nan}
+Spot4C: {'CLA1': nan, 'CLA2': nan, 'CLA3': 27.2, 'CLA4': nan}
+Spot5C: {'CLA1': nan, 'CLA2': nan, 'CLA3': 20.1, 'CLA4': nan}
+Spot6C: {'CLA1': nan, 'CLA2': nan, 'CLA3': nan, 'CLA4': nan}
+Spot7C: {'CLA1': nan, 'CLA2': nan, 'CLA3': nan, 'CLA4': nan}
+Spot8C: {'CLA1': nan, 'CLA2': nan, 'CLA3': nan, 'CLA4': nan}
+Spot9C: {'CLA1': nan, 'CLA2': nan, 'CLA3': nan, 'CLA4': nan}
+Spot10C: {'CLA1': nan, 'CLA2': nan, 'CLA3': nan, 'CLA4': nan}

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "FunctionPackageOM"
+version = "0.0.7"
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+authors = [
+  { name="Oliver Maßmeyer", email="oliver.massmeyer@physik.uni-marburg.de" },
+]
+description = "Additional Functions used for Jupyter Notebooks"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+homepage = "https://gitlab.uni-marburg.de/wzmw/strl/tem/Working_with_2024_4dstem.git"
+

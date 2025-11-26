@@ -1,0 +1,66 @@
+#still to add:
+
+pymatgen for wroking with crystal structures, was installed, maybe needs newer version?
+
+!{sys.executable} -m pip install netCDF4
+
+import sys
+!{sys.executable} -m pip install siphash24
+
+
+## need to update pip before installations
+import sys
+!{sys.executable} -m pip install error-propagation
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------
+
+already added:
+
+#installation of cyberpunk for plotting?
+#test cyberpunk: https://github.com/dhaitz/mplcyberpunk
+import sys
+!{sys.executable} -m pip install mplcyberpunk
+!{sys.executable} -m pip install periodictable
+
+#description how to update for new pull --> requirements have to be installed again 
+
+for TVIPS converter
+
+!{sys.executable} -m pip install -i https://test.pypi.org/simple/ tvips-converter # to be added to list
+!{sys.executable} -m pip install opencv-python ## to be added to list
+
+
+
+
+% felix converter:
+
+ -  add that save path is checked before the conversion is started
+
+%hyperspy update v 2.1.0
+
+#update hyperspy
+import sys
+!{sys.executable} -m pip install hyperspy[all] --upgrade
+
+## for installation add change in config set c.ServerApp.iopub_msg_rate_limit=100000.0
+https://stackoverflow.com/questions/43490495/how-to-set-notebookapp-iopub-data-rate-limit-and-others-notebookapp-settings-in
+
+## add py script for additional functionalities
+
+
+## add UMAP STUFF TO REQUIREMENTS
+!{sys.executable} -m pip install umap-learn
+!{sys.executable} -m pip install MCRLLM
+!{sys.executable} -m pip install pysptools
+
+## add atomap
+
+import sys
+!{sys.executable} -m pip install atomap

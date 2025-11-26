@@ -1,0 +1,22 @@
+;File created by RosettaSciIO version 0.7.1
+key	value
+byte-order	dont-care
+data-length	8
+data-type	float
+date	
+depth	1
+height	2896
+height-name	Y
+height-origin	25.20325203252032
+height-scale	0.042005420054200535
+height-units	nm
+offset	0
+record-by	dont-care
+signal	
+time	
+title	
+width	2896
+width-name	X
+width-origin	25.20325203252032
+width-scale	0.042005420054200535
+width-units	nm
